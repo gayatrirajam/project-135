@@ -20,6 +20,8 @@ input{
     font-size: 20px;
 }
 canvas{
+    margin-top: 100px;
+    color: aliceblue;
     border: 15px solid white;
     border-radius: 15px;
 }
